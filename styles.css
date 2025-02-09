@@ -64,7 +64,7 @@ main {
 }
 
 .hero {
-  height: 93.3vh;
+  height: 90vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -266,4 +266,3 @@ footer {
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   }
 }
-
